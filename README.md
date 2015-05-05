@@ -1,7 +1,7 @@
 # TutorialMLPython
 
 This is an introductory tutorial of using Python data analysis and machine learning libraries, including Pandas and Scikit-learn for a Kaggle competition problem: Titanic. 
-The tutorial was modification of the Pycon UK Introductory Tutorial given by Ezzeri Esa. The original tutorial can be found here:
+The tutorial was a modification of the a copy of the Pycon UK Introductory Tutorial given by Ezzeri Esa. The original tutorial can be found here:
 https://github.com/savarin/pyconuk-introtutorial
 
 In this modified tutorial, more emphasis has been given to comparison of classifier performance (accuracy and area under the ROC curves) using cross-validation, 
@@ -49,6 +49,4 @@ purposes of making submissions and reviewing our performance on the leaderboard.
 
 
 ## Credits
-
-Special thanks to [amueller](https://github.com/amueller), [jakevdp](https://github.com/jakevdp), 
-and [ogrisel](https://github.com/ogrisel) for the excellent materials they've posted.
+Most credits go to the original instroctor of the Pycon UK Introductory Tutorial, Ezzeri Esa [savarin](https://github.com/savarin) for providing the excellent tutorial materials through github.
