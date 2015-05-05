@@ -1,15 +1,16 @@
 # TutorialMLPython
 
 This is an introductory tutorial of using Python data analysis and machine learning libraries, including Pandas and Scikit-learn for a Kaggle competition problem: Titanic. 
-The tutorial was a modification of the a copy of the Pycon UK Introductory Tutorial given by Ezzeri Esa. The original tutorial can be found here:
+The tutorial was modification of the Pycon UK Introductory Tutorial given by Ezzeri Esa. The original tutorial can be found here:
 https://github.com/savarin/pyconuk-introtutorial
 
-In this modified tutorial, more emphasis has been given to comparison of classifier performance (accuracy and area under the ROC curves) using cross-validation, 
-and how to perform data preprocessing and feature selection, and how to tune the hyper-parameters of those classifiers 
-through the use of pipelines. 
+In this modified tutorial, more emphasis has been given to: 
+- comparison of classifier performance (accuracy and area under the ROC curves) using cross-validation, 
+- how to perform data preprocessing and feature selection, and 
+- how to tune the hyper-parameters of those classifiers through the use of pipelines. 
 
 ## Installation Notes
-This tutorial requires *pandas*, *scikit-learn*, and best to run  with the IPython Notebook. 
+This tutorial requires *pandas*, *scikit-learn*, and best run  with the IPython Notebook. 
 If you're not sure how to install these packages, we recommend the free [Anaconda distribution](http://continuum.io/downloads).
 
 The materials will be best reviewed with the IPython Notebook. You should be able to type
@@ -49,4 +50,5 @@ purposes of making submissions and reviewing our performance on the leaderboard.
 
 
 ## Credits
-Most credits go to the original instroctor of the Pycon UK Introductory Tutorial, Ezzeri Esa [savarin](https://github.com/savarin) for providing the excellent tutorial materials through github.
+
+Most credits go to the original instroctor of the Pycon UK Introductory Tutorial, Ezzeri Esa [savarin] (https://github.com/savarin) for providing the excellent tutorial materials through github.
