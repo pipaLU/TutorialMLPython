@@ -4,7 +4,7 @@ This is a practical introduction to two Python data analysis and machine learnin
 The tutorial is a modification of the Pycon UK Introductory Tutorial given by Ezzeri Esa. The original version can be found here:
 https://github.com/savarin/pyconuk-introtutorial
 
-Compared to the orginal Pycon introductory tutorial, more sophiticated analyses have been added for: 
+Compared to the orginal Pycon introductory tutorial, more sophiticated analyses have been added in this tutorial for: 
 - data exploration and visualisation
 - data preprocessing including and feature selection
 - cross-validation and hyper-parameters tuning for various model types through the use of pipelines
