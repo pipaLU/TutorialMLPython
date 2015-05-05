@@ -43,7 +43,7 @@ from start to finish, through a number of iterations in an increasing order of s
 - [Section 2 - Parameter Tuning for Random Forest.ipynb](http://nbviewer.ipython.org/github/pipaLU/TutorialMLPython/blob/master/notebooks/Section%202%20-%20Parameter%20Tuning%20for%20Random%20Forest.ipynb)
 - [Section 3 - Cross-validation with ROC analysis.ipynb](http://nbviewer.ipython.org/github/pipaLU/TutorialMLPython/blob/master/notebooks/Section%203.%20Cross-validation%20with%20ROC%20analysis.ipynb)
 - [Section 4 - SVM with Feature Selection and Parameter Tuning.ipynb](http://nbviewer.ipython.org/github/pipaLU/TutorialMLPython/blob/master/notebooks/Section%204%20-%20SVM%20with%20Feature%20selection%20and%20Parameter%20Tuning.ipynb)
-- [Section 5 - Model Comparison using Pipelines.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooksSection%205%20-%20Building%20Pipelines%20and%20Model%20Comparison.ipynb.ipynb)
+- [Section 5 - Model Comparison using Pipelines.ipynb](http://nbviewer.ipython.org/github/savarin/pyconuk-introtutorial/blob/master/notebooksSection%205%20-%20Building%20Pipelines%20and%20Model%20Comparison.ipynb)
 
 A [Kaggle account](https://www.kaggle.com/account/register) would be required for the
 purposes of making submissions and reviewing our performance on the leaderboard.
